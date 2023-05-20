@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AlessandroMottadelli, retired Tech Sales professional from IBM
 - 👀 I'm a  interested in software engineering, java, javascript, nodejs, eclipse, orion, kubernetes
-- 🌱 I’m currently learning special relativity
-- 💞️ I’m looking to collaborate on ... opensource wherever my skill can help
 - 📫 How to reach me  amottadelli@gmail.com
 
 <!---
